@@ -1,0 +1,26 @@
+/* Globals - most of these are probably non-ideal, but they are just easier */
+body {
+  background-image: url("../imagens/desenho-loucao.jpg");
+}
+
+table {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  border-spacing: 0;
+  border: 1px solid black;
+}
+
+table th {
+  background-color: grey;
+  color: white;
+}
+
+tr {
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid black;
+}

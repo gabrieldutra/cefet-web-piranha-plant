@@ -1,0 +1,43 @@
+/* Globals - most of these are probably non-ideal, but they are just easier */
+body {
+  margin: 0 10%;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+h1,
+h2 {
+  font-family: "Times New Roman", serif;
+  color: limegreen;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  text-align: justify;
+}
+
+blockquote {
+  margin-right: 60px;
+}
+
+img {
+  border: 8px solid limegreen;
+  display: block;
+  margin: auto;
+}
+
+/* Text */
+.text-italic {
+  font-style: italic;
+}
+
+.text-highlight {
+  background-color: yellow;
+}

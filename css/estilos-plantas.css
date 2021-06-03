@@ -1,0 +1,22 @@
+/* Globals - most of these are probably non-ideal, but they are just easier */
+img {
+  border: 8px solid limegreen;
+  display: block;
+  margin: auto;
+}
+
+/* Text */
+.text-italic {
+  font-style: italic;
+}
+
+.text-highlight {
+  background-color: yellow;
+}
+
+/* Custom components */
+.block-important {
+  border: 3px solid limegreen;
+  padding: 10px;
+  background-image: url("../imagens/fundo.png");
+}
